@@ -845,4 +845,6 @@
     <icon drawable="@drawable/slice" package="indwin.c3.shareapp" name="slice" />
     <icon drawable="@drawable/stay_focused" package="com.stayfocused" name="Stay Focused" />
     <icon drawable="@drawable/music" package="com.soundcorset.client.android" name="Soundcorset" />
+    <icon drawable="@drawable/gcam" package="com.hihonor.camera" name="Camera" />
+    <icon drawable="@drawable/dialer" package="com.hihonor.contacts" name="Phone" />
 </icons>
