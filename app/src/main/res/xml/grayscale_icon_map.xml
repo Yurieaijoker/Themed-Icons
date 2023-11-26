@@ -847,4 +847,5 @@
     <icon drawable="@drawable/music" package="com.soundcorset.client.android" name="Soundcorset" />
     <icon drawable="@drawable/gcam" package="com.hihonor.camera" name="Camera" />
     <icon drawable="@drawable/dialer" package="com.hihonor.contacts" name="Phone" />
+    <icon drawable="@drawable/lock_screen" package="rk.android.app.lockscreen" name="Lock Screen" />
 </icons>
