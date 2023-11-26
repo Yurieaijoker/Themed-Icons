@@ -393,7 +393,7 @@
     <icon drawable="@drawable/mcdonalds" package="com.mcdonalds.mobileapp" name="McDonald's" />
     <icon drawable="@drawable/mcdonalds" package="de.mcdonalds.mcdonaldsinfoapp" name="McDonald's" />
     <icon drawable="@drawable/mcpro24fps" package="lv.mcprotector.mcpro24fps.red" name="mcpro24fps" />
-    <icon drawable="@drawable/mdgram" package="org.telegram.mdgram" name="MDGramYou" />
+    <icon drawable="@drawable/telegram" package="org.telegram.mdgram" name="MDGramYou" />
     <icon drawable="@drawable/mega" package="mega.privacy.android.app" name="Mega" />
     <icon drawable="@drawable/messages_aosp" package="com.android.messaging" name="Messages AOSP" />
     <icon drawable="@drawable/messages_aosp" package="com.android.mms" name="Messages AOSP" />
