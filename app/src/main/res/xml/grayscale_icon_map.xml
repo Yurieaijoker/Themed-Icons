@@ -231,6 +231,7 @@
     <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager.pro" name="Simple File Manager Pro" />
     <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager" name="Simple File Manager" />
     <icon drawable="@drawable/files" package="me.zhanghai.android.files" name="Files" />
+    <icon drawable="@drawable/files" package="com.hihonor.filemanager" name="Files" />
     <icon drawable="@drawable/filesplus" package="com.alphainventor.filemanager" name="File manager+" />
     <icon drawable="@drawable/find_my_device" package="com.google.android.apps.adm" name="Find My Device" />
     <icon drawable="@drawable/firefox_beta" package="org.mozilla.firefox_beta" name="Firefox Beta" />
