@@ -260,6 +260,7 @@
     <icon drawable="@drawable/gallery" package="com.huawei.photos" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.miui.gallery" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.oneplus.gallery" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="com.hihonor.photos" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.oppo.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gamespace" package="io.chaldeaprjkt.gamespace" name="Game space" />
     <icon drawable="@drawable/gboard" package="com.google.android.inputmethod.latin.canary" name="Gboard" />
@@ -393,7 +394,7 @@
     <icon drawable="@drawable/mcdonalds" package="com.mcdonalds.mobileapp" name="McDonald's" />
     <icon drawable="@drawable/mcdonalds" package="de.mcdonalds.mcdonaldsinfoapp" name="McDonald's" />
     <icon drawable="@drawable/mcpro24fps" package="lv.mcprotector.mcpro24fps.red" name="mcpro24fps" />
-    <icon drawable="@drawable/telegram" package="org.telegram.mdgram" name="MDGramYou" />
+    <icon drawable="@drawable/mdgram" package="org.telegram.mdgram" name="MDGramYou" />
     <icon drawable="@drawable/mega" package="mega.privacy.android.app" name="Mega" />
     <icon drawable="@drawable/messages_aosp" package="com.android.messaging" name="Messages AOSP" />
     <icon drawable="@drawable/messages_aosp" package="com.android.mms" name="Messages AOSP" />
