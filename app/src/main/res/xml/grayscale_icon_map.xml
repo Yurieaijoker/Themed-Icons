@@ -746,8 +746,8 @@
     <icon drawable="@drawable/twitch" package="tv.twitch.android.app" name="Twitch" />
     <icon drawable="@drawable/twitch" package="tv.twitch.bttvandroid.app" name="Twitch" />
     <icon drawable="@drawable/twitch" package="tv.twitchmod.android.app" name="TwitchMod" />
-    <icon drawable="@drawable/twitter" package="com.twitter.android.lite" name="Twitter" />
-    <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter" />
+    <icon drawable="@drawable/x" package="com.twitter.android.lite" name="Twitter" />
+    <icon drawable="@drawable/x" package="com.twitter.android" name="Twitter" />
     <icon drawable="@drawable/tyra" package="se.bayou.android.tyra" name="Tyra" />
     <icon drawable="@drawable/uber" package="com.ubercab" name="Uber" />
     <icon drawable="@drawable/unicode_pad" package="jp.ddo.hotmist.unicodepad" name="Unicode Pad" />
