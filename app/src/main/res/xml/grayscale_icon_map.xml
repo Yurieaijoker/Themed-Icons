@@ -850,4 +850,6 @@
     <icon drawable="@drawable/gcam" package="com.hihonor.camera" name="Camera" />
     <icon drawable="@drawable/dialer" package="com.hihonor.contacts" name="Phone" />
     <icon drawable="@drawable/lock_screen" package="rk.android.app.lockscreen" name="Lock Screen" />
+    <icon drawable="@drawable/automatag" package="com.fillobotto.mp3tagger" name="Automatag" />
+    <icon drawable="@drawable/soundbound" package="in.shabinder.soundbound" name="Soundbound" />
 </icons>
