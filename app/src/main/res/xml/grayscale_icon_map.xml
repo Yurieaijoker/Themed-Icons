@@ -852,4 +852,5 @@
     <icon drawable="@drawable/lock_screen" package="rk.android.app.lockscreen" name="Lock Screen" />
     <icon drawable="@drawable/automatag" package="com.fillobotto.mp3tagger" name="Automatag" />
     <icon drawable="@drawable/soundbound" package="in.shabinder.soundbound" name="Soundbound" />
+    <icon drawable="@drawable/gramophone" package="org.akanework.gramophone" name="Gramophone" />
 </icons>
