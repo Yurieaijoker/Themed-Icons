@@ -8,6 +8,7 @@ The diffrence between Themed icons and Lawnicons is that Themed icons are filled
 ## Download
 
 See my telegram channel https://t.me/ljgp_channel
+or check the [Releases] page.
 
 ## Adding icons
 
