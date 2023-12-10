@@ -7,7 +7,7 @@ The diffrence between Themed icons and Lawnicons is that Themed icons are filled
 
 ## Download
 
-See the [Releases](https://github.com/RadekBledowski/rkicons/releases) section to download the latest stable build of RKicons.
+See my telegram channel https://t.me/ljgp_channel
 
 ## Adding icons
 
