@@ -1,9 +1,9 @@
-# RKicons
+# Themed icons
 
-RKicons is fork of Lawnicons which is an add-on for adding themed icons to [Lawnchair 12 Alpha 5](https://github.com/LawnchairLauncher/lawnchair) and above.
+Themed icons is fork of RKicons which is a fork of Lawnicons and is an add-on for adding themed icons to [Lawnchair 12 Alpha 5](https://github.com/LawnchairLauncher/lawnchair) and above.
 This addon is now the source of all themed icons, for simplicity.
 
-The diffrence between RKicons and Lawnicons is that RKicons are filled variant and they have material design look.
+The diffrence between Themed icons and Lawnicons is that Themed icons are filled variant and they have material design look.
 
 ## Download
 
