@@ -31,6 +31,7 @@
     <icon drawable="@drawable/app_lounge" package="foundation.e.apps" name="App Lounge" />
     <icon drawable="@drawable/appgallery" package="com.huawei.appmarket" name="App Gallery" />
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
+    <icon drawable="@drawable/apple_music" package="com.huawei.music" name="Huawei Music" />
     <icon drawable="@drawable/appmanager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/artflow" package="com.bytestorm.artflow" name="ArtFlow" />
     <icon drawable="@drawable/asuscalc" package="com.sec.android.app.popupcalculator" name="Asus Calculator" />
