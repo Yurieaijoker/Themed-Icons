@@ -10,7 +10,7 @@ android {
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "app.lawnchair.lawnicons.themedicons"
+        applicationId = "app.lawnchair.lawnicons"
         minSdk = 26
         targetSdk = 31
         versionCode = 2
@@ -50,7 +50,7 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
-    namespace = "app.lawnchair.lawnicons.themedicons"
+    namespace = "app.lawnchair.lawnicons"
 }
 
 dependencies {
