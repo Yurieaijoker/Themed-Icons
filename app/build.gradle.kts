@@ -10,11 +10,11 @@ android {
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "app.lawnchair.lawnicons"
+        applicationId = "app.lawnchair.lawnicons.themedicons"
         minSdk = 26
         targetSdk = 31
         versionCode = 2
-        versionName = "1.9.0"
+        versionName = "2.0.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
             useSupportLibrary = true
@@ -50,7 +50,7 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
-    namespace = "app.lawnchair.lawnicons"
+    namespace = "app.lawnchair.lawnicons.themedicons"
 }
 
 dependencies {
