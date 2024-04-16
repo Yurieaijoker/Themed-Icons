@@ -375,6 +375,7 @@
     <icon drawable="@drawable/kustompro" package="org.kustom.wallpaper.pro" name="KLWP Pro" />
     <icon drawable="@drawable/kustompro" package="org.kustom.widget.pro" name="KWGT Pro" />
     <icon drawable="@drawable/lawncons" package="app.lawnchair.lawnicons" name="RKicons" />
+    <icon drawable="@drawable/lawncons" package="app.lawnchair.themedicons" name="Themed Icons" />
     <icon drawable="@drawable/leaflet" package="com.potatoproject.notes" name="Leaflet" />
     <icon drawable="@drawable/libretorrent" package="org.proninyaroslav.libretorrent" name="LibreTorrent" />
     <icon drawable="@drawable/libretube" package="com.github.libretube" name="LibreTube" />
