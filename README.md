@@ -10,6 +10,10 @@ The diffrence between Themed icons and Lawnicons is that Themed icons are filled
 See my telegram channel https://t.me/ljgp_channel
 or check the [Releases](https://github.com/Yurieaijoker/Themed-Icons/releases) page.
 
+## Installation
+
+Uninstall lawnicons and other lawnicons versions to install Themed icon. It has the same 'packagename' so it cannot co-exist with them in your phone.
+
 ## Adding icons
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for info on adding icons.
