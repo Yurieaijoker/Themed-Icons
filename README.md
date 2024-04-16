@@ -12,7 +12,7 @@ or check the [Releases](https://github.com/Yurieaijoker/Themed-Icons/releases) p
 
 ## Installation
 
-Uninstall lawnicons and other lawnicons versions to install Themed icon. It has the same 'packagename' so it cannot co-exist with them in your phone.
+Uninstall lawnicons and other lawnicons versions to install Themed icons. It has the same 'packagename' so it cannot co-exist with them in your phone.
 
 ## Adding icons
 
