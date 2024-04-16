@@ -10,7 +10,7 @@ android {
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "app.lawnchair.lawnicons"
+        applicationId = "app.lawnchair.themedicons"
         minSdk = 26
         targetSdk = 31
         versionCode = 2
