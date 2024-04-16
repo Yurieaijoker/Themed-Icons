@@ -854,4 +854,5 @@
     <icon drawable="@drawable/automatag" package="com.fillobotto.mp3tagger" name="Automatag" />
     <icon drawable="@drawable/soundbound" package="in.shabinder.soundbound" name="Soundbound" />
     <icon drawable="@drawable/gramophone" package="org.akanework.gramophone" name="Gramophone" />
+    <icon drawable="@drawable/accord" package="org.akanework.accord" name="Accord" />
 </icons>
